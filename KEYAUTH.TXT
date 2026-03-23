@@ -1,6 +1,6 @@
 std::string name = "paranormal";
 std::string ownerid = "9uNJpr2FSi";
 std::string secret = "6a44d092f2faa8bf999e6d2ba64554b6ee6128567d72e497aab033620bf255f7";
-std::string version = "1";
+std::string version = "2";
 std::string url = "https://keyauth.win/api/1.2/";
 KeyAuth::api KeyAuthApp(name, ownerid, secret, version, url);
